@@ -1,8 +1,8 @@
-![front img](3851-front_end_cover.jpg)
-
 # Hello, World! 👋
 
 Hi, I'm Ruslan, a frontend developer. Welcome to my GitHub profile, where I share my experience and projects.
+
+![front img](3851-front_end_cover.jpg)
 
 ## My Skills
 

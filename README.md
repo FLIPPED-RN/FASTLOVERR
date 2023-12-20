@@ -20,7 +20,7 @@ I also actively work with modern frameworks, such as:
 
 Frontend is not just my specialization, but my passion. I strive to create user interfaces that are not only functional but also bring joy to the user.
 
-![Frontend Developer](https://example.com/path/to/your/image.jpg)
+![Frontend Developer](adc5dc27-3391-44ec-b7ed-1d619e419009.jpg)
 
 ## Connect with Me
 

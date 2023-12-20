@@ -1,4 +1,4 @@
-![front img](https://postimg.cc/DJ74nRnK)
+![front img]()
 
 # Hello, World! 👋
 

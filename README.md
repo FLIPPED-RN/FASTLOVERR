@@ -1,34 +1,28 @@
-# Hello, World! 👋
+# Hello, Flippeds! 👋
 
-Hi, I'm Ruslan, a frontend developer. Welcome to my GitHub profile, where I share my experience and projects.
+## About Me
 
-![front img](3851-front_end_cover.jpg)
+Welcome to my coding corner! I'm Ruslan, but in the development world, I go by the alias FLIPPED. You've landed in my GitHub, where I actively create under the handle FLIPPED-RN (RN - Ruslan Nazarov).
 
-## My Skills
+## Latest News: Embracing Vue.js!
 
-- **HTML**: Understanding of web page structure and semantics.
-- **CSS**: Experience in creating stylish and responsive user interfaces.
-- **JavaScript**: Programming in pure JS, including interaction with the DOM and the use of modern APIs.
+As of 22.12.23, I've embraced the challenge and transitioned to **Vue.js**. Now, I enjoy crafting interfaces using Nuxt.js.
 
-### Frameworks
+## Quick Look at My Tech Stack
 
-I also actively work with modern frameworks, such as:
+I'm an experienced web developer who loves experimenting with technologies. My current stack includes:
 
-- **React**: Experience with React, including component creation, state management, and routing. Knowledge of Next.js and Vite for performance optimization and development.
-
-## Frontend in My Blood
-
-Frontend is not just my specialization, but my passion. I strive to create user interfaces that are not only functional but also bring joy to the user.
-
-![Frontend Developer](adc5dc27-3391-44ec-b7ed-1d619e419009.jpg)
+- **React.js**: Writing with Vite and Next.js, always bringing the cool factor!
+  
+- **Vue.js**: Recently shifted to Vue.js, providing fresh inspiration for crafting exciting interfaces with Nuxt.js.
 
 ## Connect with Me
 
-I'm happy to discuss projects, participate in interesting initiatives, or just chat. You can reach out to me via:
+- **VK**: [fast_loverr](https://vk.com/fast_loverr)
+- **Telegram**: [fast_loverr](https://t.me/fast_loverr)
 
-- [VKontakte](https://vk.com/fast_loverr)
-- [Telegram](https://t.me/fast_loverr)
+## Guided Tour through My Code World
 
-Feel free to drop me a message; I'm always open to new connections!
+Here, you'll find not just code but also a glimpse of my creative side. If you have questions, ideas, or just want to chat about development, feel free to reach out. I'm always excited about new connections and interesting projects!
 
-Thanks for visiting! 🚀
+Thanks for stopping by my profile. Until our next encounter in the thrilling world of code! 🚀

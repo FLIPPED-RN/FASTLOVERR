@@ -1,5 +1,7 @@
 # Hello, Flippeds! 👋
 
+![FLIPPED-IMAGE](adc5dc27-3391-44ec-b7ed-1d619e419009.jpg)
+
 ## About Me
 
 Welcome to my coding corner! I'm Ruslan, but in the development world, I go by the alias FLIPPED. You've landed in my GitHub, where I actively create under the handle FLIPPED-RN (RN - Ruslan Nazarov).
